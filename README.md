@@ -1,2 +1,1 @@
-# Iris-Toy-Dataset-Pipeline
-The iris dataset is very well understood, and as such, it is often used as a reference dataset. The goal of this project is to get familiar with the `Pipeline` class of `scikit-learn`.
+# Tornado-Magnitude-Prediction
