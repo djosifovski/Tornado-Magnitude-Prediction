@@ -11,4 +11,3 @@ The most optimal model for this application is the stacking regressor which has 
 
 ## Technologies
 Technologies used in this project are: scikit-learn, XGBoost, mlxtend, ensemble learning, Jupyter Notebook.
-# Tornado-Magnitude-Prediction
